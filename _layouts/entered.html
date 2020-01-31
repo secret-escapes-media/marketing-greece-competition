@@ -9,12 +9,17 @@
 
     <div class="content-spacing section-spacing">
       <div class="container">
-        <div class="width width--md vpad--xxl">
+        <div class="width width--md space--xxl text--center">
           <h1 class="title title--lg">{{page.title}}</h1>
           <div class="space--xxs"></div>
           <p class="text--xxl">{{page.intro}}</p>
           <div class="space--md"></div>
           <a href="{{page.cta.link | liquify}}" class="btn btn--orange">{{page.cta.text}}</a>
+        </div>
+        <div class="vpad--lg">
+          <div class="bg-img bg-img--4-3 bg-img--lg-16-9" style="background-image: url('{{site.img}}/content/entered.jpg')">
+            <a href="{{page.cta.link | liquify}}" class="bg-img__link"></a>
+          </div>
         </div>
       </div>
     </div>

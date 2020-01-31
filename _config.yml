@@ -1,18 +1,18 @@
 # Site settings
-title: Template
-client:
-  name: Client Name
-  link: "#client-name"
+title: Greece Competition
+# client:
+#   name: Client Name
+#   link: "#client-name"
 core-se-link: https://www.secretescapes.com/current-sales
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Experience the calm and tranquillity offered by this little piece of island paradise. A luxurious and opulent resort on the largest island in Greece, you'll have plenty to do should you wish to explore beyond the hotel, but we wouldn't blame you if you wanted to stay in this sanctuary and soak-up the 5-star service.
 
 # file paths
-url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
-baseurl: "/template" # the subpath of your site, e.g. /blog/
-img:     "/template/_assets/img"
-css:     "/template/_assets/css"
-js:      "/template/_assets/js"
+url:     "https://mp.secretescapes.com" # the base hostname & protocol for your site
+baseurl: "/greece-competition" # the subpath of your site, e.g. /blog/
+img:     "/greece-competition/_assets/img"
+css:     "/greece-competition/_assets/css"
+js:      "/greece-competition/_assets/js"
 
 
 # Build settings
