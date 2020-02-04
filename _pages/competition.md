@@ -22,8 +22,8 @@ features:
 
 competition-form:
   id: comp
-  post-url: "#getFormUrl"
-  expiry-date: 2050-01-01
+  post-url: https://getform.io/f/9ee5a4f1-9474-48c3-bcf8-3d5291278c0e
+  expiry-date: 2020-03-04
   fields:
     - id: name
       type: text
